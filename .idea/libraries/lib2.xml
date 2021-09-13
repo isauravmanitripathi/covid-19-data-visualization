@@ -1,16 +1,16 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/jcommon-1.0.17.jar!/" />
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/opencsv-2.3_2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/jfreechart-1.0.14.jar!/" />
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/jfreechart_2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/jcommon.jar!/" />
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/opencsv-2.3.jar!/" />
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/jcommon-1.0.17_2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/jfreechart.jar!/" />
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/jcommon_2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/ce291_team30-main-Covid-19/Covid-19/lib/jfreechart-1.0.14_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/jcommon-1.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/opencsv-2.3_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/jfreechart-1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/jfreechart_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/jcommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/opencsv-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/jcommon-1.0.17_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/jcommon_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/covid-19 dashboard/Covid-19/lib/jfreechart-1.0.14_2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
